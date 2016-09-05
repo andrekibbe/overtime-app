@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-
 gem 'rails', '4.2.7'
 gem 'pg', '~> 0.15'
 gem 'sass-rails', '~> 5.0'
@@ -29,3 +28,5 @@ end
 gem 'devise', '~> 4.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'gritter', '1.2.0'
+gem 'administrate', "~> 0.2.2"
+gem 'bourbon'
