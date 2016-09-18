@@ -11,14 +11,14 @@
 - [ ] Approval Workflow
 - [ ] SMS Sending -> link to approval or overtime input
 - [x] Administrate admin dashboard
-- [ ] Block non-admin and guest users
+- [x] Block non-admin and guest users
 - [ ] Email summary to managers to approval
 - [ ] Needs to be documented if employee did not log overtime
 
-## UI:
+## UI
 - [x] Bootstrap -> formatting
 - [ ] Icons from Font Awesome
 - [x] Update the styles for forms
 
-## Refactor TODOS:
+## Refactor TODOS
 - [ ] Refactor user association integration test in post_spec
